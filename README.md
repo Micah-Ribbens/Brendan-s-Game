@@ -5,6 +5,6 @@
 - git push
 
 ## Recieving My Code
--If you edited any code or files then type in all the commands in 'Saving Your Code.' Otherwise, just type:
+- If you edited any code or files then type in all the commands in 'Saving Your Code.' Otherwise, just type:
 
--git pull
+- git pull
